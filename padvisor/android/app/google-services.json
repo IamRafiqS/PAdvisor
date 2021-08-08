@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387171257516",
+    "project_id": "padvisor-24103",
+    "storage_bucket": "padvisor-24103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387171257516:android:7721eb57203a3661c26309",
+        "android_client_info": {
+          "package_name": "com.example.padvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387171257516-e828j2a7fngujmt9euf95cjougk9788b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDta7E_wE1tXEBCB2hFsADkXu454LEbiL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387171257516-e828j2a7fngujmt9euf95cjougk9788b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
